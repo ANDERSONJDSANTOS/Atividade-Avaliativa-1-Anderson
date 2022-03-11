@@ -11,4 +11,4 @@ export function calculaFatorialDuploPositivo(numero: number): any{
     
 
 }
-console.log(calculaFatorialDuploPositivo(0));
+console.log(calculaFatorialDuploPositivo(7));
